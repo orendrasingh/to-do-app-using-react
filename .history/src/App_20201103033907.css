@@ -1,0 +1,13 @@
+
+.Maindiv
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60%;
+  background: chartreuse;
+  align-items: center;
+  margin: 0px auto;
+  
+  
+}

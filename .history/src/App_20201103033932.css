@@ -1,0 +1,15 @@
+
+.Maindiv
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60%;
+  background: chartreuse;
+  align-items: center;
+  margin: 10px auto;
+  border: 2px solid black;
+  border-radius: 5px;
+
+  
+}
